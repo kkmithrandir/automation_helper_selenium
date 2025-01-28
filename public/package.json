@@ -1,0 +1,14 @@
+{
+  "name": "plain-english-to-selenium",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@huggingface/inference": "^2.6.1",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "vercel": "^28.16.0"
+  }
+}
